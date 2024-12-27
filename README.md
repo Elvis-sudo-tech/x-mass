@@ -26,3 +26,29 @@ This project is a festive and interactive web application where users can enter 
 1. Clone this repository:
    ```bash
    git clone git@github.com:Elvis-sudo-tech/x-mass.git
+# 🎉 Features in Detail
+Popup Animation
+The popup is displayed with a smooth scale-up animation, making the greeting feel magical and festive.
+
+Multi-Color Toggle
+The multiColorPop animation transitions through various vibrant background colors, creating a lively holiday vibe.
+
+Personalized Greeting
+The app generates a unique greeting for each user based on the name entered in the input field.
+
+# 🎨 Screenshots
+Main Screen
+
+Popup with Personalized Greeting
+
+# 🛠️ Development
+To make changes or add features:
+
+Edit the HTML in index.html.
+Modify styles in style.css.
+Enhance functionality in index.js.
+# 🎁 Contribution
+Feel free to fork this repository and submit a pull request with your improvements or ideas. All contributions are welcome!
+
+# 🪅 License
+This project is open-source and available under the MIT License.
