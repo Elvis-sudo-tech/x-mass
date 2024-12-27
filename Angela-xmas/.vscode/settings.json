@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.proxy": {
+        "enable": true
+    },
+    "liveServer.settings.https": {
+        "enable": true
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "git.ignoreLimitWarning": true
+}
